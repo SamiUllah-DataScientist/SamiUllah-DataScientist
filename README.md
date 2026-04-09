@@ -30,4 +30,8 @@ I am a results-driven **Data Scientist** based in Lahore, Pakistan, dedicated to
 - **Email:** vufatehpur786@gmail.com
 
 ---
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 *"Turning complex data into simple, intelligent solutions."*
