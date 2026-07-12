@@ -25,7 +25,7 @@ I am a results-driven **Data Scientist** based in Lahore, Pakistan, dedicated to
 
 
 ### 📫 Let's Connect & Collaborate
-- **LinkedIn:** [Sami Ullah]([https://www.linkedin.com/in/sami-ullah-python](https://www.linkedin.com/in/samiullah-data-science/))
+- **LinkedIn:** [Sami Ullah](https://www.linkedin.com/in/samiullah-data-science/)
 - **Location:** Lahore, Punjab, Pakistan 🇵🇰
 - **Email:** vufatehpur786@gmail.com
 
