@@ -1,47 +1,69 @@
-# 👋 Hi, I'm Sami Ullah
+# <h1 align="center">👋 Hi, I'm Sami Ullah</h1>
 
-<div align="center">
+<h3 align="center">✨ Data Scientist | AI & Analytics Specialist | Python Content Creator ✨</h3>
 
-### 👨‍💻 Data Scientist | AI & Python Specialist | Student @ Virtual University of Pakistan
-
-[![Python Series](https://img.shields.io/badge/Current_Focus-Python_Mastery_Series-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SamiUllah-DataScientist)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiullah-data-science)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msami784485@gmail.com)
-
-</div>
-
----
-
-### 📌 About Me
-I am a results-driven **Data Scientist** based in Pakistan, dedicated to turning raw data into actionable insights and building scalable AI solutions. Currently, I am actively crafting an educational **Python Series** to simplify core programming concepts, data structures, and advanced logic building.
-
-* 🎓 **Education:** BS Data Science @ Virtual University of Pakistan
-* 🎯 **Current Focus:** Python Educational Series & Real-World Data Engineering Logic
-* 🚀 **Active Mission:** Building modular, AI-driven projects & data pipelines
-* 💡 **Philosophy:** *"Turning complex data into simple, intelligent solutions."*
+<p align="center">
+  <a href="https://linkedin.com/in/samiullah-data-science">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:msami784485@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SamiUllah-DataScientist">
+    <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Professional Toolkit
+## 🚀 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Data Analysis & Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| **Environments & Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+I am a passionate **Data Science Student @ Virtual University of Pakistan** and an aspiring **AI Specialist** with a strong drive for turning complex raw data into actionable insights and intelligent automation. 
+
+Currently, I am actively creating and sharing a dedicated **Python Educational Series**, designed to help developers and data enthusiasts master core programming, data structures, and advanced logic from the ground up.
 
 ---
 
-### 🐍 Python Series Highlights
-A dedicated series focusing on step-by-step programming, logic development, and data manipulation:
+## 🔥 Featured Focus: Python Mastery Series
 
-- ✅ **Core Fundamentals:** Variables, Control Flow, & Data Types
-- ✅ **Data Structures:** Lists, Dictionaries, Sets, & Type Casting
-- ✅ **Modular Logic:** Functions, Lambda Expressions, & Nested Loops
-- 📋 **Upcoming:** Advanced Data Manipulation & Pandas/Numpy Integration
+> 🎯 **Mission:** Building a comprehensive, step-by-step guide to mastering Python for Data Science & Artificial Intelligence.
+
+* 🧠 **Core Logic:** Variables, Data Types, Control Flow, & Nesting
+* 📦 **Data Handling:** Lists, Dictionaries, Sets, Sequences, & Type Casting
+* ⚡ **Modular Architecture:** Custom Functions, Lambda Expressions, & Functional Programming
+* 🚧 **In Progress:** Advanced Data Engineering, Pandas, & NumPy Ecosystems
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ by Sami Ullah | Data Science & AI Enthusiast</sub>
-</div>
+## 🛠️ Tech Stack & Dynamic Toolkit
+
+### 💻 Languages & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ IDEs & Workflows
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 What I Do
+
+```python
+class SamiUllah:
+    def __init__(self):
+        self.role = "Data Scientist"
+        self.location = "Pakistan"
+        self.current_focus = "Python Series & AI Engineering"
+        
+    def get_philosophy(self):
+        return "Turning complex data into simple, intelligent solutions."
+
+me = SamiUllah()
+print(me.get_philosophy())
