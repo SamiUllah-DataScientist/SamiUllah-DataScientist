@@ -42,14 +42,6 @@ A dedicated series focusing on step-by-step programming, logic development, and 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiUllah-DataScientist&show_icons=true&theme=github_dark&hide_border=true" alt="Sami Ullah's GitHub Stats" />
-</div>
-
----
-
 <div align="center">
   <sub>Designed with ❤️ by Sami Ullah | Data Science & AI Enthusiast</sub>
 </div>
