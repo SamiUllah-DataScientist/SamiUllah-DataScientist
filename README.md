@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi, I'm Sami Ullah
+# 👋 Hi, I'm Sami Ullah
 
 <div align="center">
 
@@ -35,18 +35,17 @@ I am a results-driven **Data Scientist** based in Pakistan, dedicated to turning
 ### 🐍 Python Series Highlights
 A dedicated series focusing on step-by-step programming, logic development, and data manipulation:
 
-- [x] **Core Fundamentals:** Variables, Control Flow, & Data Types
-- [x] **Data Structures:** Lists, Dictionaries, Sets, & Type Casting
-- [x] **Modular Logic:** Functions, Lambda Expressions, & Nested Loops
-- [📋] **Upcoming:** Advanced Data Manipulation & Pandas/Numpy Integration
+- ✅ **Core Fundamentals:** Variables, Control Flow, & Data Types
+- ✅ **Data Structures:** Lists, Dictionaries, Sets, & Type Casting
+- ✅ **Modular Logic:** Functions, Lambda Expressions, & Nested Loops
+- 📋 **Upcoming:** Advanced Data Manipulation & Pandas/Numpy Integration
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamiUllah-DataScientist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiUllah-DataScientist&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiUllah-DataScientist&show_icons=true&theme=github_dark&hide_border=true" alt="Sami Ullah's GitHub Stats" />
 </div>
 
 ---
