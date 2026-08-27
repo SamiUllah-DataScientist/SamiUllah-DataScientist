@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=220&section=header&text=Sami%20Ullah&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20Python%20Specialist&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=Sami%20Ullah&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20Python%20Specialist&descAlignY=60&descSize=18"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+%7C+Virtual+University+of+Pakistan;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Building+Practical+Data+Science+Projects;Learning+Machine+Learning+%26+Artificial+Intelligence;Turning+Data+Into+Meaningful+Insights+%F0%9F%9A%80" alt="Typing Animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=BS+Data+Science+Student+%7C+Virtual+University+of+Pakistan;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Building+Practical+Data+Science+Projects;Learning+Machine+Learning+%26+Artificial+Intelligence;Turning+Data+Into+Meaningful+Insights+%F0%9F%9A%80" />
 
 <br>
 
@@ -30,127 +28,47 @@
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="65%">
+I'm **Sami Ullah**, a **BS Data Science student at Virtual University of Pakistan** with a strong interest in **Python, Data Analysis, Artificial Intelligence and Machine Learning**.
 
-### ⚡ Hello, I'm Sami Ullah!
+I believe in learning through **practical projects, consistent practice and real-world problem solving**.
 
-I'm a **BS Data Science student at Virtual University of Pakistan**, passionate about **Data Science, Python, Artificial Intelligence, Machine Learning and Data Analytics**.
-
-I believe in learning by **building real projects, solving real problems and continuously improving.**
-
-Currently, I'm strengthening my programming and analytical skills through practical projects and a structured **Educational Python Series**.
-
-My long-term goal is to become a professional **Data Scientist** who can transform raw data into meaningful insights and intelligent solutions.
-
-</td>
-
-<td width="35%">
-
-### 🎯 Current Focus
-
-🐍 Python  
-📊 Data Analysis  
-🗄️ SQL  
-📈 Power BI  
-📗 Excel  
-🐼 Pandas  
-🔢 NumPy  
-🤖 Machine Learning  
-🧠 Artificial Intelligence
-
-</td>
-</tr>
-</table>
+🎯 **Goal:** Become a professional Data Scientist and build intelligent, data-driven solutions.
 
 ---
 
-# 🎓 My Academic Journey
+# 🎓 Academic Journey
 
 <div align="center">
 
-| 🎯 Stage | 🏆 Achievement |
+| 🎯 Achievement | Result |
 |:---|:---:|
 | 🏫 Matric | **1052 / 1100** |
 | 💻 ICS | **194 / 200** |
 | 🎓 BS Data Science | **Virtual University of Pakistan** |
-| 📊 Academic Performance | **3.7+ CGPA** |
+| 📊 CGPA | **3.7+** |
 | 💻 PM Laptop Scheme | **Merit-Based Awardee** |
+| 💼 LinkedIn | **20K+ Impressions** |
 
 </div>
 
 ---
 
-# 🏆 Milestones & Highlights
+# 🚀 Current Focus
 
 <div align="center">
 
-<table>
-<tr>
+🐍 **Python** &nbsp; • &nbsp;
+📊 **Data Analysis** &nbsp; • &nbsp;
+🗄️ **SQL** &nbsp; • &nbsp;
+📈 **Power BI** &nbsp; • &nbsp;
+📗 **Excel**
 
-<td align="center" width="33%">
+<br>
 
-### 🎓 Academic Excellence
-
-**1052 / 1100**
-
-Matric Result
-
-**194 / 200**
-
-ICS Result
-
-**3.7+**
-
-CGPA
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 PM Laptop Scheme
-
-🏆 **Merit-Based Awardee**
-
-Recognized through the **Prime Minister's Laptop Scheme** based on academic merit.
-
-</td>
-
-<td align="center" width="33%">
-
-### 💼 LinkedIn Growth
-
-🚀 **20K+ Impressions**
-
-Sharing:
-
-**Data Science • Python • Learning Journey • Educational Content**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🚀 My Learning Journey
-
-<div align="center">
-
-**LEARN** 🧠  
-↓  
-**PRACTICE** 💻  
-↓  
-**BUILD** 🚀  
-↓  
-**ANALYZE** 📊  
-↓  
-**IMPROVE** ⚡  
-↓  
-**SHARE** 🌎
+🐼 **Pandas** &nbsp; • &nbsp;
+🔢 **NumPy** &nbsp; • &nbsp;
+🤖 **Machine Learning** &nbsp; • &nbsp;
+🧠 **Artificial Intelligence**
 
 </div>
 
@@ -159,22 +77,18 @@ Sharing:
 # 📚 Educational Python Series
 
 ### 🟢 Module 01 — Python Fundamentals
+`Variables` `Data Types` `Operators` `Input/Output` `If/Else` `Loops`
 
-Variables • Data Types • Operators • Input/Output • If/Else • Loops
-
-### 🔵 Module 02 — Python Data Structures
-
-Lists • Tuples • Dictionaries • Sets • `append()` • `remove()` • `pop()` • `sort()` • `index()` • `count()` • `extend()` • `reverse()` • `clear()`
+### 🔵 Module 02 — Data Structures
+`Lists` `Tuples` `Dictionaries` `Sets` `append()` `remove()` `pop()` `sort()`
 
 ### 🟣 Module 03 — Modular Python
-
-Functions • Parameters • Arguments • Return Values • Scope • Lambda Functions • Reusable Code
+`Functions` `Parameters` `Arguments` `Scope` `Lambda` `Reusable Code`
 
 ### 🟠 Module 04 — Data Wrangling
+`Pandas` `NumPy` `Data Cleaning` `Data Transformation` `Data Analysis`
 
-Pandas • NumPy • Data Cleaning • Data Transformation • Data Analysis
-
-> 🔥 **Learning philosophy:** Every important concept should eventually become a practical project.
+> 💡 **Learn → Practice → Build → Analyze → Improve**
 
 ---
 
@@ -182,27 +96,14 @@ Pandas • NumPy • Data Cleaning • Data Transformation • Data Analysis
 
 <div align="center">
 
-### 🐍 Programming & Development
-
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter"/>
 
 <br><br>
-
-### 📊 Data & Analytics
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -217,39 +118,34 @@ Pandas • NumPy • Data Cleaning • Data Transformation • Data Analysis
 
 ## 🏋️ Gym Membership Portal
 
-Console-based **Gym Membership Management System** built with Python.
+Python-based console application for managing gym members.
 
-**Features**
+**Includes:**
+- Member Registration
+- Search & Management
+- CRUD Operations
+- Revenue Tracking
+- Dictionary-Based Data
 
-- 👤 Member Registration
-- 🔎 Member Search
-- ✏️ Member Management
-- 🗑️ Delete Records
-- 💰 Revenue Tracking
-- 🔄 CRUD Operations
-- 📚 Dictionary-Based Data
-
-**Tech:** Python • Dictionaries • Functions • Jupyter Notebook
+**Tech:** `Python` `Functions` `Dictionaries`
 
 </td>
 
 <td width="50%">
 
-## 🎓 Smart Student Grade Tracker
+## 🎓 Smart Grade Tracker
 
-Python project for tracking student performance.
+Student performance management system.
 
-**Features**
+**Includes:**
+- Student Records
+- Marks Input
+- Total & Average
+- Highest Scorer
+- Lowest Scorer
+- Performance Analysis
 
-- 👨‍🎓 Student Management
-- 📝 Marks Input
-- ➕ Total Marks
-- 📊 Average Marks
-- 🏆 Highest Scorer
-- 📉 Lowest Scorer
-- ✅ Performance Classification
-
-**Tech:** Python • Lists • Loops • Conditions
+**Tech:** `Python` `Lists` `Loops`
 
 </td>
 
@@ -259,41 +155,36 @@ Python project for tracking student performance.
 
 <td width="50%">
 
-## 🛒 Intelligent E-Commerce Cart
+## 🛒 E-Commerce Shopping Cart
 
-Console-based shopping cart inspired by real-world online stores.
+Console-based shopping cart system.
 
-**Features**
+**Includes:**
+- Add / Remove Items
+- Cart View
+- Duplicate Check
+- Sorting
+- Item Counting
+- Total Calculation
 
-- ➕ Add Items
-- ➖ Remove Items
-- 🛍️ View Cart
-- 🔍 Duplicate Check
-- 🔤 Alphabetical Sorting
-- 🔢 Item Counter
-- 💰 Total Calculation
-
-**Tech:** Python • Lists • Loops • Conditions
+**Tech:** `Python` `Lists` `Conditions`
 
 </td>
 
 <td width="50%">
 
-## 🎯 Roll Number & Attendance Filter
+## 🎯 Roll Number Filter
 
-Python data-cleaning project focused on list manipulation.
+Python data-cleaning project.
 
-**Features**
+**Includes:**
+- Duplicate Removal
+- Ascending / Descending
+- Search
+- Index Detection
+- Count & Reverse
 
-- 🧹 Remove Duplicates
-- 🔼 Ascending Order
-- 🔽 Descending Order
-- 🔎 Search Roll Number
-- 📍 Find Exact Index
-- 🔢 Count Occurrences
-- 🔄 Reverse Data
-
-**Tech:** Python • Lists • Data Cleaning
+**Tech:** `Python` `Lists` `Data Cleaning`
 
 </td>
 
@@ -302,38 +193,21 @@ Python data-cleaning project focused on list manipulation.
 
 ---
 
-# 📊 Skills & Learning Progress
+# 📊 GitHub
 
 <div align="center">
 
-| Skill | Current Focus |
-|:---|:---:|
-| 🐍 Python | █████████░ 90% |
-| 📗 Excel | ████████░░ 80% |
-| 🗄️ SQL | ███████░░░ 70% |
-| 📈 Power BI | ██████░░░░ 60% |
-| 🐼 Pandas | ██████░░░░ 60% |
-| 🔢 NumPy | █████░░░░░ 50% |
-| 🤖 Machine Learning | ████░░░░░░ 40% |
-| 🧠 Artificial Intelligence | ███░░░░░░░ 30% |
+<a href="https://github.com/SamiUllah-DataScientist">
+<img src="https://img.shields.io/github/followers/SamiUllah-DataScientist?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="https://github.com/SamiUllah-DataScientist?tab=repositories">
+<img src="https://img.shields.io/github/repos/SamiUllah-DataScientist?label=Public%20Repositories&style=for-the-badge&logo=github"/>
+</a>
 
-> 📌 These percentages represent my current learning focus, not certifications.
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SamiUllah-DataScientist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiUllah-DataScientist&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=SamiUllah-DataScientist&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SamiUllah-DataScientist">
+<img src="https://img.shields.io/github/last-commit/SamiUllah-DataScientist?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -353,55 +227,35 @@ Python data-cleaning project focused on list manipulation.
 
 <div align="center">
 
-### 🐍 Python
-**█████████░ Advanced Python**
-
-⬇️
-
-### 📊 Data Analysis
-**███████░░░ Professional Data Analysis**
-
-⬇️
-
-### 🗄️ SQL
-**███████░░░ Advanced SQL**
-
-⬇️
-
-### 📈 Data Visualization
-**██████░░░░ Power BI + Visualization**
-
-⬇️
-
-### 🤖 Machine Learning
-**████░░░░░░ Machine Learning**
-
-⬇️
-
-### 🧠 Artificial Intelligence
-**███░░░░░░░ Artificial Intelligence**
-
-⬇️
-
-# 🚀 FUTURE DATA SCIENTIST
+**Python** 🐍  
+⬇️  
+**Data Analysis** 📊  
+⬇️  
+**SQL + Power BI** 🗄️📈  
+⬇️  
+**Pandas + NumPy** 🐼  
+⬇️  
+**Machine Learning** 🤖  
+⬇️  
+**Artificial Intelligence** 🧠  
+⬇️  
+# 🚀 DATA SCIENTIST
 
 </div>
 
 ---
 
-# ✅ 2026 Goals
+# 🏆 Goals
 
 - [x] Python Fundamentals
 - [x] Python Data Structures
-- [x] Python Practice Projects
+- [x] Python Projects
 - [x] SQL Fundamentals
-- [x] Excel Practice
-- [x] Power BI Introduction
+- [x] Excel
 - [x] Git & GitHub
 - [ ] Advanced Python
 - [ ] Advanced SQL
-- [ ] Pandas
-- [ ] NumPy
+- [ ] Pandas & NumPy
 - [ ] Data Visualization
 - [ ] Machine Learning
 - [ ] Artificial Intelligence
@@ -411,39 +265,21 @@ Python data-cleaning project focused on list manipulation.
 
 ---
 
-# 🌟 What You'll Find On My GitHub
-
-<div align="center">
-
-🐍 **Python Projects**  
-📊 **Data Analysis Projects**  
-🗄️ **SQL Practice**  
-📈 **Power BI Work**  
-🐼 **Pandas & NumPy**  
-🤖 **Machine Learning**  
-🧠 **Artificial Intelligence**  
-📚 **Learning Resources**  
-🚀 **Real-World Projects**
-
-</div>
-
----
-
 # 💼 Open To Opportunities
 
 <div align="center">
 
-### 🚀 Data Science Internships
+🚀 **Data Science Internships**
 
-### 🤝 Project Collaborations
+🤝 **Project Collaborations**
 
-### 🐍 Python Projects
+🐍 **Python Projects**
 
-### 📊 Data Analytics
+📊 **Data Analytics**
 
-### 🤖 AI & Machine Learning
+🤖 **AI & Machine Learning**
 
-### 🌱 Open Source Contributions
+🌱 **Open Source**
 
 </div>
 
@@ -460,57 +296,39 @@ Python data-cleaning project focused on list manipulation.
 <br>
 
 <a href="https://github.com/SamiUllah-DataScientist">
-
 <img src="https://img.shields.io/badge/⭐%20FOLLOW%20ME%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/samiullah-data-science">
-
-<img src="https://img.shields.io/badge/💼%20CONNECT%20WITH%20ME%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="mailto:msami784485@gmail.com">
-
 <img src="https://img.shields.io/badge/📩%20CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
+
+<br><br>
+
+**⭐ Follow my journey • Explore my projects • Let's build something meaningful**
 
 </div>
 
 ---
 
-# 💡 My Philosophy
-
 <div align="center">
 
-### "Learn. Build. Analyze. Improve. Repeat."
+### 💡 "Learn. Build. Analyze. Improve. Repeat."
 
-<br>
-
-> **Every dataset tells a story.**  
-> My goal is to understand it, visualize it,  
-> and turn it into meaningful value.
+**Every dataset tells a story. My goal is to understand it, visualize it, and create value from it.**
 
 <br>
 
 ### 🚀 More Data Science Projects Coming Soon...
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=130&section=footer"/>
-
-### ⭐ Follow my journey • Explore my projects • Let's build something meaningful
-
-**Made with ❤️ by Sami Ullah**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=100&section=footer"/>
 
 </div>
